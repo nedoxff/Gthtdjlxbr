@@ -41,6 +41,8 @@ if __name__ == "__main__":
         enter_phrase = "Enter phrase: "
         error = "Unknown Choice."
         result = "Result: "
+    else:
+        exit(1)
     i = input(choose)
     if i == "1":
         k = input(enter_phrase)
