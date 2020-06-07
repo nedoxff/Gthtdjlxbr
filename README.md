@@ -49,7 +49,8 @@ translator.toRussian("ghbdtn") # привет
 translator.toEnglish("привет") # ghbdtn
 ```
 Как программа:
-
+	
+	python translator.py
         Language/Язык:
         1.) Русский
         2.) English
